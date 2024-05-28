@@ -1,11 +1,12 @@
 # POKENEXT
 👨‍🏫APLICAÇÃO POKEDEX CRIADO PARA A VISUALIZAÇÃO DE POKÉMONS COM API POKEAPI.
 
-<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_5.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_01.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_02.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_03.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_04.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_05.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_06.png" align="center" width="500"> <br> 
 
 ## DESCRIÇÃO:
 Este projeto é uma Pokédex interativa desenvolvida com Next.js e Tailwind CSS. Ele permite aos usuários visualizar uma lista de Pokémon, pesquisar por nome ou ID, e obter detalhes específicos de cada Pokémon, incluindo suas estatísticas, tipos e habilidades.
@@ -42,6 +43,7 @@ Este projeto é uma Pokédex interativa desenvolvida com Next.js e Tailwind CSS.
 * [CURSO DE NEXTJS](https://github.com/VILHALVA/CURSO-DE-NEXTJS)
 * [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
 * [CURSO DE TYPESCRIPT](https://github.com/VILHALVA/CURSO-DE-TYPESCRIPT)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
 * [CURSO DE NODEJS](https://github.com/VILHALVA/CURSO-DE-NODEJS)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
