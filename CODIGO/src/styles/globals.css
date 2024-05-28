@@ -1,0 +1,117 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icon-search {
+  @apply absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none;
+}
+
+.input-search {
+  @apply block w-full p-4 pl-10 text-sm outline-none text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-gray-400 focus:border-gray-400;
+}
+
+.button-search {
+  @apply text-white absolute right-2.5 bottom-2.5 bg-red-500 hover:bg-red-600 focus:ring-4  focus:ring-red-300 font-medium rounded-lg text-sm px-4 py-2 cursor-pointer;
+}
+
+.pokemon-wrapper {
+  @apply mx-auto max-w-7xl grid place-items-center gap-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 p-4 sm:px-6 lg:px-8;
+}
+
+.pokemon-card {
+  @apply w-full h-60 flex items-center justify-center bg-green-400 flex-col p-3 text-white hover:brightness-95 cursor-pointer drop-shadow rounded;
+}
+.pokemon-card-body {
+  @apply w-full flex items-center justify-between;
+}
+
+.pokemon-card-id {
+  @apply text-xl font-medium text-white;
+}
+
+.pokemon-card-wrapper {
+  @apply flex items-center gap-3;
+}
+.pokemon-card-type {
+  @apply truncate max-w-full py-1 px-2 text-lg shadow-sm text-white bg-white brightness-105 rounded;
+}
+
+.div-btn-load {
+  @apply w-full h-full flex items-center justify-center my-4 px-4;
+}
+
+.btn-load {
+  @apply w-full md:w-2/6 flex items-center justify-center py-3 sm:py-2 px-4 text-xl text-white font-medium bg-red-500 rounded-sm hover:bg-red-600 whitespace-nowrap transition-all;
+}
+
+.grass {
+  @apply bg-green-400;
+}
+
+.electric {
+  @apply bg-yellow-400;
+}
+
+.water {
+  @apply bg-blue-400;
+}
+
+.ice {
+  @apply bg-blue-600;
+}
+
+.fire {
+  @apply bg-red-500;
+}
+
+.rock {
+  @apply bg-orange-400;
+}
+
+.ground {
+  @apply bg-orange-600;
+}
+
+.poison {
+  @apply bg-purple-400;
+}
+
+.fairy {
+  @apply bg-pink-400;
+}
+
+.bug {
+  @apply bg-emerald-400;
+}
+
+.normal {
+  @apply bg-yellow-600;
+}
+
+.fighting {
+  @apply bg-yellow-700;
+}
+
+.psychic {
+  @apply bg-pink-500;
+}
+
+.ghost {
+  @apply bg-gray-500;
+}
+
+.dark {
+  @apply bg-slate-800;
+}
+
+.dragon {
+  @apply bg-red-600;
+}
+
+.steel {
+  @apply bg-slate-400;
+}
+
+.unknown {
+  @apply bg-zinc-700;
+}
